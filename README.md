@@ -1,4 +1,4 @@
-****Police-Secure-Smart-Traffic-Stop-Violation-Analytics-Dashboard**
+**Police-Secure-Smart-Traffic-Stop-Violation-Analytics-Dashboard**
 
 **Overview**
 Police-Secure-Smart-Traffic-Stop-Violation-Analytics-Dashboard is a Streamlit-based analytical web application for visualizing and predicting insights from police traffic stop data. It connects to a MySQL database and provides an interactive user interface for data exploration, analysis, and summary generation.
